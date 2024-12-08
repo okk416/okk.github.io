@@ -1,7 +1,7 @@
 # Site settings
 title: OKK Blog
 SEOTitle: OKK的博客
-header-img: img/post-bg-index.jpg
+header-img: img/post-okk-index.jpg
 email: okk416@foxmail.com
 description: "Every failure is leading towards success."
 keyword: "王志彪的博客, Will Wang, 王志彪, Java"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/okk416/okk.github.io.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: Your neighborhood trend supplier.
-sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/okk.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
